@@ -298,7 +298,3 @@ Delete `roamease.db` file to reset the database
 ## License
 
 Academic Project - SE3512 Course Assignment
-
-## Support
-
-For issues or questions, contact the development team at the university.
